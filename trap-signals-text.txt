@@ -1,0 +1,213 @@
+Trap signals:
+
+but, however, although, though, even though, whereas, while, yet, still
+
+I mean, I guess, I thought … but, or rather, sorry, I’m sorry, no, wait, let me correct that, instead, instead of, rather than, on second thought
+
+after all, actually, no, in fact, I’ve changed my mind
+
+well, anyway, by the way, the thing is, you know, to be honest, honestly
+
+
+
+Mini dialogues:
+
+<1>
+Let’s meet at 5.
+Actually, 6 works better for me.
+
+Should we go to the supermarket?
+No, wait, let’s go to the café instead.
+
+We’ll need three chairs.
+On second thought, four will be safer.
+
+Are we meeting on Friday?
+But Saturday is the correct date.
+
+Did you buy the blue shirt?
+I was going to, but instead I bought the white one.
+
+Why didn’t he come yesterday?
+He said he was tired, but in fact he had another appointment.
+
+Was it your teacher who helped you?
+Actually, my sister helped me.
+
+The ticket costs $20, right?
+Sorry, it’s $25.
+
+Let’s take the bus.
+Well, I think the train is faster.
+
+Are you going to watch a movie tonight?
+I thought so, but instead I’ll read a book.
+
+What time is the flight?
+I was told 8 PM, but I’ve changed my mind, it’s 9 PM.
+
+Do you want to order a pizza?
+I’m sorry, but I’m on a diet.
+
+Should we paint the room blue?
+The thing is, blue might be too dark.
+
+Is your birthday in May?
+No, wait, it’s in April.
+
+Did he say he was from Canada?
+I thought so, but I guess he was from Australia.
+
+This is the fastest route, right?
+On second thought, let's take the other road instead.
+
+Is your brother still a student?
+Actually, no, he just got a job.
+
+Let's start the project on Monday.
+Rather than Monday, how about we begin on Tuesday?
+
+We should call him tomorrow.
+I mean, we could just send him a text message.
+
+Is this the final version?
+Honestly, I'll need to make a few more changes.
+
+He said the movie was terrible.
+On the contrary, I actually found it quite good.
+
+Is the report due on Friday?
+I was going to say yes, but it’s actually due on Thursday.
+
+We should take the train.
+I thought so, but the bus seems faster today.
+
+Are we still going out tonight?
+Honestly, I’m too tired.
+
+Did you buy the tickets?
+No, wait, I forgot my wallet at home.
+
+The password is 'hello123'.
+I’m sorry, but that's not it.
+
+He said he didn’t have a car.
+In fact, he has two of them.
+
+Is this the blue car?
+No, wait, it’s the black one.
+</1>
+
+
+<2>
+I think it will be sunny tomorrow.
+I guess, but the forecast says it will rain.
+
+Did you finish your homework?
+Well, I finished most of it.
+
+She said the movie was fantastic.
+I was going to agree, but the plot was a bit weak.
+
+He’s a very outgoing person.
+However, he can be quite shy around new people.
+
+Let’s meet at the library.
+Rather than the library, how about the café?
+
+The meeting is at 10 AM, right?
+By the way, it’s been moved to 11 AM.
+
+She told me she was a doctor.
+In fact, she’s a nurse.
+
+Did you have a good day at work?
+Well, it was okay, but a bit stressful.
+
+Did you finish reading the book?
+No, even though I started it last week.
+
+I prefer a quiet vacation.
+Whereas my partner loves a busy holiday.
+
+Did you understand the instructions?
+Honestly, I'm a bit confused.
+
+You should have told me earlier.
+After all, you were the one who asked me not to.
+
+I’m going to order a salad.
+I’ve changed my mind, I think I’ll get a burger instead.
+
+Can you help me with this task?
+The thing is, I have to leave in 10 minutes.
+
+Did you like the new design?
+To be honest, I think the old one was better.
+
+Are you worried about the test?
+I guess, but I've studied all I can.
+
+I was expecting a lot more people here.
+Actually, I was expecting a lot fewer people.
+
+This is the fastest route to the city center.
+I was going to say yes, but there's a lot of traffic today.
+
+Did you find a solution to the problem?
+I was struggling, but I finally figured it out.
+
+The concert was amazing.
+I have to agree, although the tickets were a bit expensive.
+
+She doesn't like to talk much.
+However, she's very talkative with her close friends.
+
+We should have lunch at that new restaurant.
+I’m sorry, but I already ate.
+
+Did you go to the gym this morning?
+I was planning to, but instead I went for a run outside.
+
+He said he was feeling better.
+In fact, he's still running a fever.
+
+Is this your first time here?
+Well, it's my first time in this part of the city.
+
+The flight leaves at 7 PM, right?
+By the way, it's been delayed.
+
+Did you like the new song?
+I guess so, but it's not my favorite genre.
+
+The cat is sleeping on the sofa.
+No, wait, it’s a blanket that looks like a cat.
+
+We should get started on the project.
+On second thought, let's wait until everyone is here.
+
+I think he's angry at you.
+The thing is, he acts like that with everyone.
+
+Let's meet at the coffee shop.
+Rather than the coffee shop, how about we go to the library?
+
+I heard the class was difficult.
+To be honest, it was a little boring.
+
+You should have been more careful.
+I know, but honestly, I was in a rush.
+
+Did you send the email?
+I was going to, but my computer crashed.
+
+I’m so happy to see you again.
+I mean, it’s been ages!
+
+Let’s go see a movie tonight.
+Well, I think I'll just stay home and watch something on TV.
+
+I will send the report to you tomorrow.
+After all, you're the one who needs it first.
+</2>
