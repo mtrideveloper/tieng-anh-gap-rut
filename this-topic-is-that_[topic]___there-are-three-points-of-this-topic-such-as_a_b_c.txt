@@ -6,6 +6,10 @@ My topic is that + [read the topic sentence].
 
 There are three points of this topic such as A, B, C.
 
+___
+
+<positive>
+
 The first one of [MIDDLE] is about + box 1, which helps us + key 1.
 
 The second one of [MIDDLE] is about + box 2, which helps us + key 2.
@@ -15,3 +19,15 @@ The last one of [MIDDLE] is about + box 3, which helps us + key 3.
 In short, I think [read the topic sentence] has three points: A, В, С.
 
 Besides, it helps us + key 4.
+
+___
+
+<Negative>
+
+The first one of CHÍNH GIỮA is about [cụm 1]. It is bad because it can bring some negative things to our life, so we should find ways to limit it.
+
+The second one of CHÍNH GIỮA is about [cụm 2]. This is a serious problem that people need to think about, because it can cause many troubles in daily life.
+
+The last one of CHÍNH GIỮA is about [cụm 3]. It is dangerous because it can create many bad results and make everything become harder.
+
+In my opinion, we cannot avoid this problem completely, so people should pay attention to it and try to reduce it as much as possible.
