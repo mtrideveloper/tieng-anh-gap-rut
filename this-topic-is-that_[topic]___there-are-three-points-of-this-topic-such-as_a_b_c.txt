@@ -10,11 +10,11 @@ ___
 
 <positive>
 
-The first point of [MIDDLE] is about + box 1. It helps us + key 1.
+The first one of [MIDDLE] is about + box 1. It helps us + key 1.
 
-The second point of [MIDDLE] is about + box 2. It helps us + key 2.
+The second one of [MIDDLE] is about + box 2. It helps us + key 2.
 
-The last point of [MIDDLE] is about + box 3. It  helps us + key 3.
+The last one of [MIDDLE] is about + box 3. It  helps us + key 3.
 
 In short, I think [read the topic sentence] has three points: A, В, С.
 
@@ -24,10 +24,10 @@ ___
 
 <Negative>
 
-The first point of CHÍNH GIỮA is about [cụm 1]. It is bad because it can bring some negative things to our life, so we should find ways to limit it.
+The first one of CHÍNH GIỮA is about [cụm 1]. It is bad because it can bring some negative things to our life, so we should find ways to limit it.
 
-The second point of CHÍNH GIỮA is about [cụm 2]. This is a implicit problem that people need to think about, because it can cause many troubles in daily life.
+The second one of CHÍNH GIỮA is about [cụm 2]. This is a implicit problem that people need to think about, because it can cause many troubles in daily life.
 
-The last point of CHÍNH GIỮA is about [cụm 3]. It is serious because it can create many bad results and make everything become harder.
+The last one of CHÍNH GIỮA is about [cụm 3]. It is serious because it can create many bad results and make everything become harder.
 
 In my opinion, we cannot avoid this problem completely, so people should pay attention to it and try to reduce it as much as possible.
