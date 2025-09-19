@@ -15,7 +15,7 @@ ___
 Mẫu cho thư Đặt câu hỏi
 
 Mở đoạn:
-How are you? I hope you are well. I have not seen you for a long time. Thank you for your interest. I am writing some answer to your questions that you asked me in the last email. Below are my responses.
+How are you? I hope you are well. I have not seen you for a long time. Thank you for your interest. I am writing some answers to your questions that you asked me in the last email. Below are my responses.
 
 Các mục đặt câu hỏi:
 + Can you tell me about …?
